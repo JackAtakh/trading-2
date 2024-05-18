@@ -79,3 +79,10 @@ body {
 .sell_btn:hover {
   background-color: #d84a4a;
 }
+
+
+@media (max-width: 375px) {
+  .chart{
+    height: 70%;
+  }
+}
